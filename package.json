@@ -1,0 +1,19 @@
+{
+  "name": "eindwerk7swm",
+  "version": "1.0.0",
+  "description": "Eindwerk voor 7SWM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juststarkiller/Eindwerk7SWM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juststarkiller/Eindwerk7SWM/issues"
+  },
+  "homepage": "https://github.com/Juststarkiller/Eindwerk7SWM#readme"
+}
