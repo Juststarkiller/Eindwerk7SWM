@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Juststarkiller/Eindwerk7SWM/issues"
   },
-  "homepage": "https://github.com/Juststarkiller/Eindwerk7SWM#readme"
+  "homepage": "https://github.com/Juststarkiller/Eindwerk7SWM#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-install": "^1.1.0"
+  }
 }
